@@ -16,10 +16,6 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
 * 2020-2022: Research Assistant
   * University of Toronto 
