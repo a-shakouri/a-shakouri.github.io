@@ -34,8 +34,8 @@
   "education": [
     {
       "institution": "University of Groningen",
-      "area": "Ph.D in Systems and Control",
-      "studyType": "",
+      "area": "PhD in Systems and Control",
+      "studyType": "PhD",
       "startDate": "2022",
       "endDate": "2026",
       "gpa": null,
@@ -43,8 +43,8 @@
     },
     {
       "institution": "Sharif University of Technology",
-      "area": "M.S. in Aerospace Engineering",
-      "studyType": "",
+      "area": "MSc in Aerospace Engineering",
+      "studyType": "MSc",
       "startDate": "2015",
       "endDate": "2017",
       "gpa": null,
