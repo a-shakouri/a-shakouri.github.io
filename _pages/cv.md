@@ -19,10 +19,10 @@ Work experience
 
 * 2020-2022: Research Assistant
   * University of Toronto 
-  * Duties included: Merging pull requests
+  * Topic: Suboptimal control
   * Supervisor: Prof. M. Reza Emami
 
 * 2018-2020 Research Assistant
   * Sharif University of Technology
-  * Duties included: Tagging issues
+  * Topic: Prescribed-time control
   * Supervisor: Prof. Nima Assadian
