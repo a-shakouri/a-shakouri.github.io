@@ -14,9 +14,9 @@ Education
 * PhD in Systems and Control, Bernulli Institute, University of Groningen, 2022-2026
   * Thesis: Experiment Design for Data-Driven Control Using Prior Knowledge
   * Supervisors: Henk J. van Waarde and M. Kanat Camlibel
-* MSc in Aerospace Engineering, Sharif University of Technology, 2015-2017
+* MSc in Space Systems, Department of Aerospace Engineering, Sharif University of Technology, 2015-2017
   * Thesis: Trajectory Design for Orbital Maneuvers Under Uncertainties
-  * Supervisors: Maryam Kiani and Seid H. Pourtkdoust
+  * Supervisors: Maryam Kiani and Seid H. Pourtakdoust
 
 Work experience
 ======
