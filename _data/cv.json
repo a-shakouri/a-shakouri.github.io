@@ -33,32 +33,32 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Groningen",
+      "area": "Ph.D in Systems and Control",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Sharif University of Technology",
+      "area": "M.S. in Aerospace Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2015",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
+    #{
+     # "institution": "GitHub University",
+     # "area": "B.S. in GitHub",
+     # "studyType": "",
+     # "startDate": "",
+     # "endDate": "2012",
+     # "gpa": null,
+     # "courses": []
+    #}
   ],
   "skills": [],
   "languages": [],
