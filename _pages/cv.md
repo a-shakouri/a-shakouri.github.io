@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* PhD in Systems and Control, Bernoulli Institute for Mathematics, University of Groningen, 2022-2026
+* PhD in Systems and Control, [Bernoulli Institute for Mathematics](https://www.rug.nl/research/bernoulli/), [University of Groningen](https://www.rug.nl/), 2022-2026
   * Thesis: Experiment Design for Data-Driven Control Using Prior Knowledge
-  * Supervisors: Henk J. van Waarde and M. Kanat Camlibel
-* MSc in Space Systems, Department of Aerospace Engineering, Sharif University of Technology, 2015-2017
+  * Supervisors: [Dr. Henk J. van Waarde](https://henkvanwaarde.github.io/) and [Prof. M. Kanat Camlibel](https://www.math.rug.nl/~kanat/)
+* MSc in Space Systems, [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/), 2015-2017
   * Thesis: Trajectory Design for Orbital Maneuvers Under Uncertainties
-  * Supervisors: Maryam Kiani and Seid H. Pourtakdoust
+  * Supervisors: [Dr. Maryam Kiani](ae.sharif.ir/~kiani) and [Prof. Seid H. Pourtakdoust](ae.sharif.ir/~pourtak)
 
 Work experience
 ======
 
 * 2020-2022: Research Assistant
-  * University of Toronto 
+  * [Institute for Aerospace Studies](https://www.utias.utoronto.ca/), [University of Toronto ](https://www.utoronto.ca/)
   * Topic: Suboptimal control
-  * Supervisor: Prof. M. Reza Emami
+  * Supervisor: [Prof. M. Reza Emami](https://mechatronics.aerospace.utoronto.ca/)
 
 * 2018-2020 Research Assistant
-  * Sharif University of Technology
+  * [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/)
   * Topic: Prescribed-time control
-  * Supervisor: Prof. Nima Assadian
+  * Supervisor: [Prof. Nima Assadian](ae.sharif.ir/~assadian)
