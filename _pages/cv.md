@@ -18,7 +18,7 @@ Education
   * Thesis: Trajectory Design for Orbital Maneuvers Under Uncertainty
   * Supervisors: [Dr. Maryam Kiani](https://ae.sharif.ir/~portal/faculty/1195544945) and [Prof. Seid H. Pourtakdoust](https://ae.sharif.ir/~portal/faculty/1620071451)
 
-Work experience
+Experience
 ======
 
 * 2020-2022: Research Assistant
