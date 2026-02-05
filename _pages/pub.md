@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title:
 permalink: /pub/
 author_profile: true
 
