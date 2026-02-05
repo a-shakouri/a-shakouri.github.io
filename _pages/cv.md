@@ -16,7 +16,7 @@ Education
   * Supervisors: [Dr. Henk J. van Waarde](https://henkvanwaarde.github.io/) and [Prof. M. Kanat Camlibel](https://www.math.rug.nl/~kanat/)
 * MSc in Space Systems, [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/), 2015-2017
   * Thesis: Trajectory Design for Orbital Maneuvers Under Uncertainties
-  * Supervisors: [Dr. Maryam Kiani](ae.sharif.ir/~kiani) and [Prof. Seid H. Pourtakdoust](ae.sharif.ir/~pourtak)
+  * Supervisors: [Dr. Maryam Kiani](https://ae.sharif.ir/~portal/faculty/1195544945) and [Prof. Seid H. Pourtakdoust](https://ae.sharif.ir/~portal/faculty/1620071451)
 
 Work experience
 ======
@@ -29,4 +29,4 @@ Work experience
 * 2018-2020 Research Assistant
   * [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/)
   * Topic: Prescribed-time control
-  * Supervisor: [Prof. Nima Assadian](ae.sharif.ir/~assadian)
+  * Supervisor: [Prof. Nima Assadian](https://ae.sharif.ir/~portal/faculty/1467130581)
