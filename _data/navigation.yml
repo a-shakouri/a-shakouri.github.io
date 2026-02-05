@@ -23,8 +23,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "Publications"
-  #  url: /pub/
+  - title: "Publications"
+    url: /pub/
 
   - title: "Bio"
     url: /cv/
