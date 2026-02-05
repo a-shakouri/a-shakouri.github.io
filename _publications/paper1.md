@@ -1,5 +1,6 @@
 ---
 title: "Orbit estimation using a horizon detector in the presence of uncertain celestial body rotation and geometry"
+authors: A. Shakouri, M. H. Azad, N. Assadian
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
