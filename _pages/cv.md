@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Systems and Control, Bernulli Institute, University of Groningen, 2022-2026
+* PhD in Systems and Control, Bernoulli Institute for Mathematics, University of Groningen, 2022-2026
   * Thesis: Experiment Design for Data-Driven Control Using Prior Knowledge
   * Supervisors: Henk J. van Waarde and M. Kanat Camlibel
 * MSc in Space Systems, Department of Aerospace Engineering, Sharif University of Technology, 2015-2017
