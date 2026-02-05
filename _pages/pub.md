@@ -17,6 +17,18 @@ Preprints
 Published Articles
 ======
 * A. Shakouri, H. J. van Waarde, M. K. Camlibel, “A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs,” *IEEE Control Systems Letters*, vol. 9, pp. 583–588, 2025. [\[Publisher\]](https://ieeexplore.ieee.org/document/11022745)  [\[arXiv\]](https://arxiv.org/pdf/2503.12489)
-* A. Shakouri, H. J. van Waarde, M. K. Camlibel, “Chebyshev centers and radii for sets induced by quadratic matrix inequalities,” *Mathematics of Control, Signals, and Systems*, vol. 37, pp. 1007–1034, 2025. [\[Publisher (open access)\]](https://link.springer.com/article/10.1007/s00498-025-00424-w) 
+* A. Shakouri, H. J. van Waarde, M. K. Camlibel, “Chebyshev centers and radii for sets induced by quadratic matrix inequalities,” *Mathematics of Control, Signals, and Systems*, vol. 37, pp. 1007–1034, 2025. [\[Publisher (open access)\]](https://link.springer.com/article/10.1007/s00498-025-00424-w)
+* A. Shakouri, M. R. Emami, “Suboptimal control of unknown second-order nonlinear systems with guaranteed global convergence,” IEEE Control Systems Letters, vol. 6, pp. 3319–3324, 2022
+* A. Shakouri, “On the prescribed-time attractivity and frozen-time eigenvalues of linear time-varying systems,” Automatica, vol. 140, p. 110173, 2022
+* A. Shakouri, N. Assadian, “Prescribed-time control for perturbed Euler-Lagrange systems with obstacle avoidance,” IEEE Transactions on Automatic Control, vol. 67, no. 7, pp. 3754–3761, 2022.
+* A. Shakouri, N. Assadian, “A framework for prescribed-time control design via time-scale transformation,” IEEE Control Systems Letters, vol. 6, pp. 1976–1981, 2022.
+* A. Shakouri, N. Assadian, “Prescribed-time control with linear decay for nonlinear systems,” IEEE Control Systems Letters, vol. 6, pp. 313–318, 2022.
+* A. Shakouri, M. R. Emami, “Suboptimal attitude control of unknown flexible space debris,” Advances in Space Research, vol. 70, no. 10, pp. 3051–3064, 2022.
+* A. Shakouri, S. H. Pourtakdoust, M. Sayanjali, “Multiple-impulse orbital maneuver with limited observation window,” Advances in Space Research, vol. 66, no. 4, pp. 992–1000, 2020.
+* A. Shakouri, “On the impulsive formation control of spacecraft under path constraints,” IEEE Transactions on Aerospace and Electronic Systems, vol. 55, no. 6, pp. 3292–3302, 2019.
+* A. Shakouri, M. Kiani, S. H. Pourtakdoust, “A new shape-based multiple-impulse strategy for coplanar orbital maneuvers,” Acta Astronautica, vol. 161, pp. 200–208, 2019.
+* A. Shakouri, M. Kiani, S. H. Pourtakdoust, “Covariance-based multiple-impulse rendezvous design,” IEEE Transactions on Aerospace and Electronic Systems, vol. 55, no. 5, pp. 2128–2137, 2019.
+* A. Shakouri, N. Assadian, “Fault detection and isolation of satellite gyroscopes using relative positions in formation flying,” Aerospace Science and Technology, vol. 78, pp. 403–417, 2018.
+* A. Shakouri, M. H. Azad, N. Assadian, “Orbit estimation using a horizon detector in the presence of uncertain celestial body rotation and geometry,” Acta Astronautica, vol. 148, pp. 82–88, 2018.
 
 
