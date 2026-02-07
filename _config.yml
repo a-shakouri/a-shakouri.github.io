@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Home page"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Amir Shakouri"
 description              : &description "My personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "20230810_144750.jpg"
   name             : "Amir Shakouri"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student in Systems and Control at Bernoulli Institute for Mathematics."
+  bio              : "I am a PhD student in Systems and Control at the Bernoulli Institute for Mathematics."
   location         : 
   employer         : "University of Groningen"
   uri              : # URL
