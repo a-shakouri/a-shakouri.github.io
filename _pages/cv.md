@@ -30,3 +30,9 @@ Experience
   * [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/)
   * Topic: Prescribed-time control
   * Supervisor: [Prof. Nima Assadian](https://ae.sharif.ir/~portal/faculty/1467130581)
+
+
+Honors and Awards
+=====
+
+* Outstanding Student Paper Award at [IEEE CDC 2025](https://cdc2025.ieeecss.org/) for our paper "A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs."
