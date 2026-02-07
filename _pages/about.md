@@ -10,7 +10,7 @@ redirect_from:
 What I do
 ======
 
-My work focuses on [systems and control theory](https://en.wikipedia.org/wiki/Control_theory), particularly the following topics.
+My work focuses on systems and control theory, particularly the following topics.
 
 Data-driven modeling and control
 ------
