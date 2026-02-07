@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Homepage"
-author_profile: 
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 News
 ======
