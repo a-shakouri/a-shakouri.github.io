@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-#News
-#======
-
-#- *<ins>March 2026:</ins>* I will present our recent work, "Data-driven stabilization using prior knowledge on stabilizability and controllability," at the [Benelux Meeting 2026](https://www.beneluxmeeting.nl/). 
-#- *<ins>December 2025:</ins>* I received the Outstanding Student Paper Award at [IEEE CDC 2025](https://cdc2025.ieeecss.org/) for our paper "A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs."
-
 Research
 ======
 
