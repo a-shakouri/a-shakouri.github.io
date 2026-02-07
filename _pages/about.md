@@ -1,4 +1,11 @@
-
+---
+permalink: /
+title: ""
+author_profile: 
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 News
 ======
