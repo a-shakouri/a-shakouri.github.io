@@ -9,12 +9,12 @@ permalink: /talk-new/
 
 Upcoming Presentations
 ======
-* March 2026: Benelux Meeting on Systems and Control, Lommel, Belgium.
+* `March 2026`: [Benelux Meeting on Systems and Control](https://www.beneluxmeeting.nl/2026/), Lommel, Belgium.
   * Title: Data-driven stabilization using prior knowledge on stabilizability and controllability.
 
 Past Presentations
 ======
-* December 2025: IEEE Conference on Decision and Control (CDC), Rio de Janeiro, Brazil.
+* `December 2025`: [IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/), Rio de Janeiro, Brazil.
   * Title: A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs.
   * Slides: Download here.
-  * This was also presented in the Benelux Meeting 2025, Egmond aan Zee, The Netherlands, and the IFAC Symposium on System Structure and Control, Gif-sur-Yvette, France. 
+  * This was also presented in the [Benelux Meeting 2025](https://www.beneluxmeeting.nl/2025/), Egmond aan Zee, The Netherlands, and the [9th IFAC Symposium on System Structure and Control](https://sssc-tds-cosy-2025.sciencesconf.org/), Gif-sur-Yvette, France. 
