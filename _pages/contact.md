@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
-author_profile: true
-redirect_from:
-  - /resume
+
 ---
 - **Email:** a_shakouri@outlook.com  
 - **Phone:** +31 50 36 33939
