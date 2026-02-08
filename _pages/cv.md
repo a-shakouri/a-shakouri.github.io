@@ -1,6 +1,6 @@
 ---
-layout: 
-title: "Bio"
+layout: archive
+title: ""
 permalink: /cv/
 
 
