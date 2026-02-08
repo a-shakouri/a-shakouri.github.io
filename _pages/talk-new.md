@@ -21,4 +21,4 @@ Past Presentations
 
  * **<u>March 2024</u>:** [Benelux Meeting 2024](https://www.beneluxmeeting.nl/2024/), Blankenberge, Belgium.
    * **Title:** System identification using energy-bounded noise models: A full characterization of Chebyshev centers and radii.
-   * * **Slides:** <a href="{{ base_path }}/files/SysID-Presentation-Benelux-version.pdf" class="Download">Download here</a>.
+   * **Slides:** <a href="{{ base_path }}/files/SysID-Presentation-Benelux-version.pdf" class="Download">Download here</a>.
