@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+author: Amir Shakouri
 author_profile: true
 redirect_from: 
   - /about/
