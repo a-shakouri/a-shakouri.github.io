@@ -42,7 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 /* Custom overrides */
-.author-profile__image,
-.avatar {
-  border-radius: 0 !important; /* make profile pictures square */
+.sidebar .author-profile__image {
+  border-radius: 0 !important;
 }
