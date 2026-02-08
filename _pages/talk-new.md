@@ -12,6 +12,8 @@ Upcoming
 * **<u>March 2026:</u>** [Benelux Meeting on Systems and Control](https://www.beneluxmeeting.nl/2026/), Lommel, Belgium.
   * **Title:** Data-driven stabilization using prior knowledge on stabilizability and controllability.
 
+---
+
 Past Presentations
 ======
 * **<u>December 2025</u>:** [IEEE Conference on Decision and Control (CDC)](https://cdc2025.ieeecss.org/), Rio de Janeiro, Brazil.
