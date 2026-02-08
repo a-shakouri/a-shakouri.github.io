@@ -10,7 +10,7 @@ redirect_from:
 What I do
 ======
 
-My work focuses on systems and control theory, particularly the following topics.
+My work focuses on systems and control theory with an emphasis on systems that are subject to significant uncertainty. In particular, I investigate the following topics.
 
 Data-driven modeling and control
 ------
