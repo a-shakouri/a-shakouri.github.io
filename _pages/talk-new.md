@@ -18,7 +18,7 @@ Past Presentations
 ======
 * **<u>March 2026:</u>** [Benelux Meeting on Systems and Control](https://www.beneluxmeeting.nl/2026/), Lommel, Belgium.
   * **Title:** Data-driven stabilization using prior knowledge on stabilizability and controllability.
-  * **Slides:** <a href="{{ base_path }}/files/Benelux%20Meeting%20(2026).pdf" class="Download">Download here</a>.
+  * **Slides:** <a href="{{ base_path }}/files/Benelux_Meeting_2026.pdf" class="Download">Download here</a>.
 
 ---
 
