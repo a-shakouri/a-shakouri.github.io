@@ -9,7 +9,7 @@ permalink: /talk-new/
 
 Upcoming
 ======
-* **<u>March 2026:</u>** [Benelux Meeting on Systems and Control](https://www.beneluxmeeting.nl/2026/), Lommel, Belgium.
+* **<u>July 2026:</u>** [European Control Conference (ECC)](https://ecc26.euca-ecc.org/), Reykjavík, Iceland.
   * **Title:** Data-driven stabilization using prior knowledge on stabilizability and controllability.
 
 ---
