@@ -34,4 +34,4 @@ Experience
 Honors and Awards
 =====
 
-* Outstanding Student Paper Award at [IEEE CDC 2025](https://cdc2025.ieeecss.org/) for our paper "[A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs](https://ieeexplore.ieee.org/document/11022745)."
+* [2025 CDC Outstanding Student Paper Award](https://ieeexplore.ieee.org/document/11478593) for our paper "[A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs](https://ieeexplore.ieee.org/document/11022745)."
