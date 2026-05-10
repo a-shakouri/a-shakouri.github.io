@@ -22,4 +22,4 @@ Experiment design
 
 Robust control
 ------
-- **From prior knowledge to feedback laws:** Here, we investigate how far we can go without data by only using prior knowledge. What if we go beyond feedback laws that are linear and static? Can we simultaneously stabilize all systems within an arbitrarily large set using feedback laws that are nonlinear and/or dynamic? For more details, see our recent work "Robust stabilization of linear systems requires nonlinear dynamic feedback."
+- **From prior knowledge to feedback laws:** Here, we investigate fundamental limitations and possibilities of robust feedback laws. What if we go beyond feedback laws that are linear and static? Can we simultaneously stabilize all systems within an arbitrarily large set using time-invariant feedback laws that are nonlinear and/or dynamic? If memory is required, what is the shortest one? For more details, see our recent work "Robust stabilization of linear systems requires nonlinear dynamic feedback."
