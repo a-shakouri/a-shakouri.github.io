@@ -10,12 +10,13 @@ author_profile: true
 
 Preprints
 ======
-* A. Shakouri, H. J. van Waarde, M. K. Camlibel, "Experiment design using prior knowledge on controllability and stabilizability," *submitted for publication*, 2025. [\[arXiv\]](https://arxiv.org/pdf/2512.01876) 
+* A. Shakouri, H. J. van Waarde, M. K. Camlibel, "Experiment design for set-membership identification: From prior knowledge to universal inputs," *submitted for publication*, 2026. [\[arXiv\]](https://arxiv.org/pdf/2607.00844) 
 * A. Shakouri, H. J. van Waarde, T. M. J. T. Baltussen, W. P. M. H. Heemels, “Data-driven stabilization using prior knowledge on stabilizability and controllability,” *submitted for publication*, 2025. [\[arXiv\]](https://arxiv.org/pdf/2510.25452) 
 * Y. Li, A. Shakouri, M. K. Camlibel, “Fragility analysis of data-driven feedback gains,” *submitted for publication*, 2025. [\[arXiv\]](https://arxiv.org/pdf/2510.00717) 
 
 Published Articles
 ======
+* A. Shakouri, H. J. van Waarde, M. K. Camlibel, "Experiment design using prior knowledge on controllability and stabilizability," *IFAC World Congress*, 2026. [\[arXiv\]](https://arxiv.org/pdf/2512.01876) 
 * A. Shakouri, H. J. van Waarde, M. K. Camlibel, “A new perspective on Willems’ fundamental lemma: Universality of persistently exciting inputs,” *IEEE Control Systems Letters*, vol. 9, pp. 583–588, 2025. [\[Publisher\]](https://ieeexplore.ieee.org/document/11022745)  [\[arXiv\]](https://arxiv.org/pdf/2503.12489)
 * A. Shakouri, H. J. van Waarde, M. K. Camlibel, “Chebyshev centers and radii for sets induced by quadratic matrix inequalities,” *Mathematics of Control, Signals, and Systems*, vol. 37, pp. 1007–1034, 2025. [\[Publisher (open access)\]](https://link.springer.com/article/10.1007/s00498-025-00424-w)
 * A. Shakouri, M. R. Emami, “Suboptimal control of unknown second-order nonlinear systems with guaranteed global convergence,” *IEEE Control Systems Letters*, vol. 6, pp. 3319–3324, 2022. [\[Publisher\]](https://ieeexplore.ieee.org/abstract/document/9800972) [\[arXiv\]](https://arxiv.org/pdf/2002.10023)
