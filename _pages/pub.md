@@ -10,6 +10,7 @@ author_profile: true
 
 Preprints
 ======
+* A. Shakouri, M. Heidema, H. J. van Waarde, "Robust stabilization of discrete-time linear systems requires nonlinear dynamic feedback," *submitted for publication*, 2026. [\[arXiv\]](https://arxiv.org/pdf/2608.19010) 
 * A. Shakouri, H. J. van Waarde, M. K. Camlibel, "Experiment design for set-membership identification: From prior knowledge to universal inputs," *submitted for publication*, 2026. [\[arXiv\]](https://arxiv.org/pdf/2607.00844) 
 * A. Shakouri, H. J. van Waarde, T. M. J. T. Baltussen, W. P. M. H. Heemels, “Data-driven stabilization using prior knowledge on stabilizability and controllability,” *submitted for publication*, 2025. [\[arXiv\]](https://arxiv.org/pdf/2510.25452) 
 * Y. Li, A. Shakouri, M. K. Camlibel, “Fragility analysis of data-driven feedback gains,” *submitted for publication*, 2025. [\[arXiv\]](https://arxiv.org/pdf/2510.00717) 
