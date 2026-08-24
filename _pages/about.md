@@ -10,7 +10,7 @@ redirect_from:
 What I do
 ======
 
-My work focuses on systems and control theory with an emphasis on systems that are subject to significant uncertainty. In particular, I investigate the following topics.
+My work focuses on systems and control theory. In particular, I investigate the following topics.
 
 Data-driven modeling and control
 ------
@@ -18,8 +18,8 @@ Data-driven modeling and control
 
 Experiment design
 ------
-- **From prior knowledge to informative data:** In this line of research, we focus on finding inputs that force the unknown true system to generate informative data. For this goal, we leverage prior knowledge of the true system. See our recent work, "[Experiment design using prior knowledge on controllability and stabilizability](https://arxiv.org/pdf/2512.01876)."
+- **From prior knowledge to informative data:** In this line of research, we focus on finding inputs that force the unknown true system to generate informative data. For this goal, we leverage prior knowledge of the true system. See our recent work, "[Experiment design for set-membership identification: From prior knowledge to universal inputs](https://arxiv.org/pdf/2607.00844)."
 
 Robust control
 ------
-- **From prior knowledge to feedback laws:** Here, we investigate fundamental limitations and possibilities of robust feedback laws. What if we go beyond feedback laws that are linear and static? Can we simultaneously stabilize all systems within an arbitrarily large set using time-invariant feedback laws that are nonlinear and/or dynamic? If memory is required, what is the shortest one? For more details, see our recent work "Robust stabilization of linear systems requires nonlinear dynamic feedback."
+- **From prior knowledge to feedback laws:** Here, we investigate fundamental limitations and possibilities of robust feedback laws. What if we go beyond feedback laws that are linear and static? Can we simultaneously stabilize all systems within an arbitrarily large set using time-invariant feedback laws that are nonlinear and/or dynamic? If memory is required, what is the shortest one? For more details, see our recent work "[Robust stabilization of discrete-time linear systems requires nonlinear dynamic feedback](https://arxiv.org/pdf/2608.19010)."
