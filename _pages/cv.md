@@ -14,7 +14,7 @@ Education
   * Thesis: Experiment Design for Data-Driven Control Using Prior Knowledge
   * Supervisors: [Dr. Henk J. van Waarde](https://henkvanwaarde.github.io/) and [Prof. M. Kanat Camlibel](https://www.math.rug.nl/~kanat/)
 * MSc in Space Systems, [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/), 2015-2017
-  * Thesis: Trajectory Design for Orbital Maneuvers Under Uncertainty
+  * Thesis: Trajectory Design for Orbital Maneuvers
   * Supervisors: [Dr. Maryam Kiani](https://ae.sharif.ir/~portal/faculty/1195544945) and [Prof. Seid H. Pourtakdoust](https://ae.sharif.ir/~portal/faculty/1620071451)
 
 Experience
