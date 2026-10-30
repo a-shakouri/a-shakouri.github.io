@@ -3,10 +3,7 @@ layout: archive
 title: ""
 permalink: /cv/
 
-
 ---
-
-
 
 Experience and Education
 ======
@@ -15,8 +12,9 @@ Experience and Education
   * Topic: Geometric algebra for systems and control
   * Supervisor: [Prof. P.W.M.H. (Maurice) Heemels](https://heemels.tue.nl/)
 
-* 2022-2026: PhD Student in Applied Mathematics, [Systems, Control and Optimization Group](https://www.rug.nl/research/bernoulli/groups/sco/), [Bernoulli Institute for Mathematics](https://www.rug.nl/research/bernoulli/), [University of Groningen](https://www.rug.nl/)
-  * Thesis: Experiment Design for Data-Driven Control Using Prior Knowledge
+* 2022-2026: PhD Student in Applied Mathematics
+  * [Systems, Control and Optimization Group](https://www.rug.nl/research/bernoulli/groups/sco/), [Bernoulli Institute for Mathematics](https://www.rug.nl/research/bernoulli/), [University of Groningen](https://www.rug.nl/)
+  * Thesis: Experiment design for data-driven control using prior knowledge
   * Supervisors: [Dr. Henk J. van Waarde](https://henkvanwaarde.github.io/) and [Prof. M. Kanat Camlibel](https://www.math.rug.nl/~kanat/)
 
 * 2020-2022: Research Assistant
@@ -29,8 +27,9 @@ Experience and Education
   * Topic: Prescribed-time control
   * Supervisor: [Prof. Nima Assadian](https://ae.sharif.ir/~portal/faculty/1467130581)
  
-* 2015-2017: MSc student in Space Systems, [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/)
-  * Thesis: Trajectory Design for Orbital Maneuvers
+* 2015-2017: MSc student in Aerospace Engineering
+  * [Department of Aerospace Engineering](https://www.aero.sharif.ir/en/home), [Sharif University of Technology](https://en.sharif.ir/)
+  * Thesis: Trajectory design for orbital maneuvers
   * Supervisors: [Dr. Maryam Kiani](https://ae.sharif.ir/~portal/faculty/1195544945) and [Prof. Seid H. Pourtakdoust](https://ae.sharif.ir/~portal/faculty/1620071451)
 
 
