@@ -19,6 +19,10 @@ Education
 
 Experience
 ======
+* From 2026: Postdoctoral researcher
+  * [Control Systems Technology Section](https://www.tue.nl/en/research/research-groups/control-systems-technology), [Department of Mechaical Engineering](https://www.tue.nl/en/our-university/departments/mechanical-engineering), [Eindhoven University of Technology](https://www.tue.nl/en)
+  * Topic: Geometric algebra for systems and control theory
+  * Supervisor: [Prof. P.W.M.H. (Maurice) Heemels](https://heemels.tue.nl/)
 
 * 2020-2022: Research Assistant
   * [Institute for Aerospace Studies](https://www.utias.utoronto.ca/), [University of Toronto ](https://www.utoronto.ca/)
